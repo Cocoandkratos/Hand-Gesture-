@@ -1,7 +1,7 @@
 body
 {
   color: white;
-  background: #ff009d;
+  background: radial-gradient(circle, rgba(20,215,203,1) 34%, rgba(29,38,253,1) 55%, rgba(248,55,154,1) 74%);
 }
 span
 {
